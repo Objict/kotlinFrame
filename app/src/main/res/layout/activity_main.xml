@@ -9,13 +9,13 @@
     >
 
     <Button
-        android:id="@+id/tv_simple_adapter"
+        android:id="@+id/btn_simple"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="简单的Recycle"
        />
     <Button
-        android:id="@+id/tv_adapter"
+        android:id="@+id/btn_many_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="多布局的Recycle"

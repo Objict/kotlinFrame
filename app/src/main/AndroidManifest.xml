@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.demo.SimpleRecycleViewActivity" />
+        <activity android:name=".activity.demo.ManyLayoutRecycleViewActivity" />
     </application>
 
 </manifest>
